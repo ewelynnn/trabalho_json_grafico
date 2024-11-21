@@ -1,4 +1,4 @@
-const url = 'https://raw.githubusercontent.com/larimarianaa/trabalho_json_grafico/refs/heads/main/disciplina.json'
+const url = 'https://raw.githubusercontent.com/ewelynnn/trabalho_json_grafico/refs/heads/main/disciplina.json'
 
 async function vizualizarInformacoesGlobais() {
 
